@@ -6,7 +6,11 @@
 
     <groupId>XingJiliang</groupId>
     <artifactId>MyJavaAndScalaPrograms</artifactId>
+    <packaging>pom</packaging>
     <version>0.0.0</version>
+    <modules>
+        <module>JedisPractice</module>
+    </modules>
 
     <properties>
         <java.version>1.8</java.version>
